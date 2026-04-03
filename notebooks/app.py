@@ -39,7 +39,7 @@ df = load_audit_data()
 # Global Crash Protection
 if df is None:
     st.error("CRITICAL ERROR: Database Not Found")
-    st.info("Please ensure 'romina_final_audit_v2.csv' exists in 'data/processed/'.")
+    st.info("Please ensure 'romina_final_audit_v2.csv'.")
     st.stop()
 
 # 3. SIDEBAR: OFFICER CONTROLS
