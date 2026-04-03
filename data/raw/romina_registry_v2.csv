@@ -1,0 +1,401 @@
+Lot_ID,Station,Woreda,Region,Inspection_Date,Quantity_MT,Status,Defect_Type,Cup_Score,EUDR_Verified
+ROM-25-645E5,Oddi Boku,Girja,Sidama,2025-10-12,19.28,Passed,None,80.28,True
+ROM-25-F9562,Belete Tanga,Bona,Sidama,2024-10-10,18.83,Rejected,Under-dried,75.21,True
+ROM-25-85A32,Zenebe Dikicha,Aroresa,Sidama,2025-02-27,19.44,Rejected,Primary Defects,77.05,True
+ROM-25-2F713,Dogada Yemasira,Nansabo,Oromia,2025-06-23,18.51,Rejected,Over-fermented,76.28,True
+ROM-25-63574,Zenebe Dikicha,Aroresa,Sidama,2025-07-08,18.79,Passed,None,83.98,True
+ROM-25-471A2,Hagire Buticha,Nansabo,Oromia,2025-06-05,19.01,Rejected,Primary Defects,73.4,True
+ROM-25-6A2F7,Zenebe Dikicha,Aroresa,Sidama,2025-07-31,18.95,Passed,None,87.76,True
+ROM-25-195C0,Astatke Menafesha,Wonsho,Sidama,2025-11-23,18.8,Passed,None,88.66,True
+ROM-25-C06C4,Dogada Yemasira,Nansabo,Oromia,2025-12-05,19.11,Passed,None,87.78,False
+ROM-25-B9D9A,Zenebe Dikicha,Aroresa,Sidama,2025-09-11,19.16,Passed,None,84.81,True
+ROM-25-BE65E,Hagire Buticha,Nansabo,Oromia,2025-12-19,19.47,Rejected,Over-fermented,73.29,True
+ROM-25-9D859,Belete Tanga,Bona,Sidama,2025-10-27,19.23,Passed,None,89.49,True
+ROM-25-8CEB1,Hagire Buticha,Nansabo,Oromia,2025-07-23,19.34,Rejected,High Moisture (>12.5%),78.73,True
+ROM-25-5982C,Oddi Boku,Girja,Sidama,2025-01-04,18.78,Passed,None,81.5,True
+ROM-25-245B5,Astatke Menafesha,Wonsho,Sidama,2025-01-20,18.52,Passed,None,84.16,True
+ROM-25-AC8D8,Astatke Menafesha,Wonsho,Sidama,2025-12-27,18.7,Rejected,Over-fermented,72.1,True
+ROM-25-F4D52,Zenebe Dikicha,Aroresa,Sidama,2025-05-28,18.86,Passed,None,83.52,True
+ROM-25-D5939,Oddi Boku,Girja,Sidama,2025-12-07,18.6,Passed,None,82.15,True
+ROM-25-7AF35,Hagire Buticha,Nansabo,Oromia,2025-09-27,19.14,Passed,None,84.11,False
+ROM-25-4DB2C,Astatke Menafesha,Wonsho,Sidama,2025-04-09,19.35,Passed,None,89.8,True
+ROM-25-A0076,Oddi Boku,Girja,Sidama,2025-02-12,19.02,Passed,None,82.46,True
+ROM-25-97BFD,Belete Tanga,Bona,Sidama,2025-06-17,19.4,Passed,None,84.41,True
+ROM-25-20D04,Michael Girma,Anfilo,Oromia,2025-09-26,18.75,Passed,None,89.35,True
+ROM-25-12683,Zenebe Dikicha,Aroresa,Sidama,2025-11-26,18.79,Rejected,High Moisture (>12.5%),72.54,True
+ROM-25-91568,Belete Tanga,Bona,Sidama,2025-08-20,18.61,Passed,None,85.07,True
+ROM-25-F700B,Dogada Yemasira,Nansabo,Oromia,2025-02-04,18.82,Rejected,Primary Defects,78.18,True
+ROM-25-DDB91,Astatke Menafesha,Wonsho,Sidama,2025-07-21,18.73,Passed,None,83.77,True
+ROM-25-FF9DA,Dogada Yemasira,Nansabo,Oromia,2025-01-18,18.66,Passed,None,85.13,True
+ROM-25-B35C9,Hagire Buticha,Nansabo,Oromia,2025-07-30,18.84,Passed,None,79.84,False
+ROM-25-EE877,Hagire Buticha,Nansabo,Oromia,2025-12-18,18.86,Rejected,Over-fermented,76.92,False
+ROM-25-A3727,Dogada Yemasira,Nansabo,Oromia,2025-10-11,19.21,Passed,None,87.87,True
+ROM-25-C0EEB,Abebe Jengelo,Hoko Girja,Sidama,2025-11-07,18.91,Rejected,High Moisture (>12.5%),78.84,True
+ROM-25-979C5,Abebe Jengelo,Hoko Girja,Sidama,2024-10-05,18.64,Passed,None,80.68,True
+ROM-25-72CB2,Abebe Jengelo,Hoko Girja,Sidama,2025-07-07,18.58,Passed,None,83.15,True
+ROM-25-DE118,Astatke Menafesha,Wonsho,Sidama,2024-11-21,19.13,Passed,None,85.57,True
+ROM-25-214E8,Zenebe Dikicha,Aroresa,Sidama,2025-01-02,18.65,Passed,None,88.59,True
+ROM-25-8B35A,Abebe Jengelo,Hoko Girja,Sidama,2024-12-28,18.72,Rejected,Over-fermented,74.28,True
+ROM-25-536A6,Oddi Boku,Girja,Sidama,2025-08-30,18.67,Passed,None,83.52,True
+ROM-25-62AC0,Abebe Jengelo,Hoko Girja,Sidama,2025-08-13,19.18,Passed,None,84.86,True
+ROM-25-E4628,Belete Tanga,Bona,Sidama,2025-01-12,18.76,Passed,None,89.14,True
+ROM-25-14E82,Belete Tanga,Bona,Sidama,2025-06-25,18.76,Passed,None,86.62,False
+ROM-25-58087,Hagire Buticha,Nansabo,Oromia,2025-12-17,19.13,Passed,None,85.3,True
+ROM-25-1700F,Zenebe Dikicha,Aroresa,Sidama,2025-03-20,19.36,Passed,None,88.93,True
+ROM-25-A3E11,Astatke Menafesha,Wonsho,Sidama,2025-05-06,18.66,Passed,None,83.59,False
+ROM-25-FA0FC,Dogada Yemasira,Nansabo,Oromia,2025-11-29,19.44,Passed,None,85.61,False
+ROM-25-E2E98,Belete Tanga,Bona,Sidama,2025-09-09,18.95,Rejected,Primary Defects,75.4,False
+ROM-25-189EB,Dogada Yemasira,Nansabo,Oromia,2025-12-01,18.83,Passed,None,84.66,True
+ROM-25-FFD18,Abebe Jengelo,Hoko Girja,Sidama,2025-10-20,18.81,Passed,None,84.05,True
+ROM-25-394CE,Zenebe Dikicha,Aroresa,Sidama,2025-06-19,18.74,Passed,None,84.86,False
+ROM-25-8B71C,Michael Girma,Anfilo,Oromia,2024-11-02,18.93,Passed,None,89.34,True
+ROM-25-453C7,Astatke Menafesha,Wonsho,Sidama,2025-06-26,18.7,Passed,None,86.45,True
+ROM-25-7772B,Zenebe Dikicha,Aroresa,Sidama,2025-10-28,18.54,Passed,None,88.38,False
+ROM-25-F3670,Hagire Buticha,Nansabo,Oromia,2025-02-06,18.87,Passed,None,85.4,True
+ROM-25-E047E,Abebe Jengelo,Hoko Girja,Sidama,2025-04-13,19.07,Passed,None,82.87,False
+ROM-25-1D494,Dogada Yemasira,Nansabo,Oromia,2024-11-04,19.35,Passed,None,85.7,True
+ROM-25-13A5F,Abebe Jengelo,Hoko Girja,Sidama,2025-02-02,19.34,Passed,None,81.76,False
+ROM-25-5E9BB,Hagire Buticha,Nansabo,Oromia,2025-06-12,18.86,Rejected,Over-fermented,76.7,True
+ROM-25-8506B,Belete Tanga,Bona,Sidama,2025-08-28,19.2,Passed,None,88.19,True
+ROM-25-4C5B6,Abebe Jengelo,Hoko Girja,Sidama,2025-03-08,18.92,Passed,None,81.08,True
+ROM-25-97A52,Abebe Jengelo,Hoko Girja,Sidama,2025-04-15,19.0,Passed,None,82.58,True
+ROM-25-1A1BD,Astatke Menafesha,Wonsho,Sidama,2025-03-31,19.39,Rejected,Primary Defects,77.57,True
+ROM-25-64A0D,Dogada Yemasira,Nansabo,Oromia,2024-11-29,19.17,Passed,None,86.07,True
+ROM-25-4C205,Belete Tanga,Bona,Sidama,2025-07-07,19.09,Passed,None,85.01,True
+ROM-25-D0435,Dogada Yemasira,Nansabo,Oromia,2025-10-23,18.63,Rejected,Under-dried,74.52,True
+ROM-25-DDDF3,Michael Girma,Anfilo,Oromia,2025-04-22,18.96,Passed,None,89.76,False
+ROM-25-6CB23,Abebe Jengelo,Hoko Girja,Sidama,2025-03-19,19.14,Passed,None,82.78,True
+ROM-25-E5A7E,Michael Girma,Anfilo,Oromia,2025-11-26,18.54,Passed,None,88.0,True
+ROM-25-CC45C,Zenebe Dikicha,Aroresa,Sidama,2024-12-03,18.53,Passed,None,83.55,False
+ROM-25-FF16E,Oddi Boku,Girja,Sidama,2025-08-07,18.56,Passed,None,83.82,False
+ROM-25-801E8,Oddi Boku,Girja,Sidama,2025-12-06,19.21,Passed,None,82.84,True
+ROM-25-42AB8,Michael Girma,Anfilo,Oromia,2025-02-24,19.16,Passed,None,86.62,True
+ROM-25-CBE55,Michael Girma,Anfilo,Oromia,2024-10-21,18.86,Passed,None,84.73,True
+ROM-25-72C34,Astatke Menafesha,Wonsho,Sidama,2025-12-08,18.59,Passed,None,83.64,True
+ROM-25-C9048,Hagire Buticha,Nansabo,Oromia,2025-08-06,18.6,Passed,None,82.32,True
+ROM-25-14521,Oddi Boku,Girja,Sidama,2025-11-29,19.15,Passed,None,82.25,True
+ROM-25-879FD,Hagire Buticha,Nansabo,Oromia,2025-07-24,18.87,Passed,None,79.32,True
+ROM-25-0E818,Belete Tanga,Bona,Sidama,2025-12-08,19.18,Passed,None,86.78,True
+ROM-25-400BA,Abebe Jengelo,Hoko Girja,Sidama,2025-03-02,19.09,Passed,None,79.19,False
+ROM-25-0502D,Abebe Jengelo,Hoko Girja,Sidama,2025-07-29,18.63,Passed,None,83.01,False
+ROM-25-D31B7,Zenebe Dikicha,Aroresa,Sidama,2025-08-12,19.46,Passed,None,85.7,False
+ROM-25-1178C,Dogada Yemasira,Nansabo,Oromia,2025-10-25,18.88,Passed,None,84.5,True
+ROM-25-EA13F,Belete Tanga,Bona,Sidama,2025-06-11,18.82,Passed,None,83.5,False
+ROM-25-1D566,Belete Tanga,Bona,Sidama,2024-10-25,19.0,Passed,None,84.82,True
+ROM-25-3FBE3,Belete Tanga,Bona,Sidama,2025-06-25,19.24,Passed,None,89.14,False
+ROM-25-AD221,Astatke Menafesha,Wonsho,Sidama,2025-03-12,19.07,Passed,None,85.96,True
+ROM-25-26F82,Zenebe Dikicha,Aroresa,Sidama,2025-05-25,19.28,Passed,None,85.6,True
+ROM-25-F8637,Hagire Buticha,Nansabo,Oromia,2025-11-07,19.18,Passed,None,80.67,True
+ROM-25-3AC53,Zenebe Dikicha,Aroresa,Sidama,2025-11-17,19.0,Rejected,High Moisture (>12.5%),75.74,True
+ROM-25-6F8D9,Michael Girma,Anfilo,Oromia,2025-10-28,18.51,Passed,None,85.72,False
+ROM-25-76181,Dogada Yemasira,Nansabo,Oromia,2025-08-10,19.18,Passed,None,89.7,True
+ROM-25-BD787,Belete Tanga,Bona,Sidama,2024-11-25,18.79,Passed,None,86.14,True
+ROM-25-7923E,Zenebe Dikicha,Aroresa,Sidama,2025-01-16,19.29,Rejected,High Moisture (>12.5%),77.54,True
+ROM-25-1AC73,Belete Tanga,Bona,Sidama,2025-04-01,18.56,Passed,None,89.97,True
+ROM-25-A6C5C,Michael Girma,Anfilo,Oromia,2025-04-13,18.64,Passed,None,83.82,True
+ROM-25-B7122,Dogada Yemasira,Nansabo,Oromia,2025-05-06,18.93,Passed,None,88.87,True
+ROM-25-1A599,Astatke Menafesha,Wonsho,Sidama,2024-11-20,18.58,Passed,None,87.94,True
+ROM-25-2C452,Zenebe Dikicha,Aroresa,Sidama,2025-03-12,19.38,Passed,None,89.04,True
+ROM-25-4B66D,Oddi Boku,Girja,Sidama,2025-02-01,18.88,Passed,None,84.27,True
+ROM-25-59CCB,Michael Girma,Anfilo,Oromia,2025-05-12,18.75,Passed,None,87.94,True
+ROM-25-E1718,Hagire Buticha,Nansabo,Oromia,2025-04-07,18.97,Passed,None,79.08,True
+ROM-25-EA2B0,Dogada Yemasira,Nansabo,Oromia,2024-12-08,19.24,Passed,None,88.76,True
+ROM-25-12443,Dogada Yemasira,Nansabo,Oromia,2025-09-19,18.79,Passed,None,85.62,False
+ROM-25-47C4E,Hagire Buticha,Nansabo,Oromia,2025-08-08,19.48,Passed,None,84.61,True
+ROM-25-EA9F5,Oddi Boku,Girja,Sidama,2024-12-26,19.49,Passed,None,82.69,True
+ROM-25-E1687,Zenebe Dikicha,Aroresa,Sidama,2025-10-03,18.67,Passed,None,83.53,True
+ROM-25-E257D,Oddi Boku,Girja,Sidama,2025-10-06,19.08,Passed,None,83.39,False
+ROM-25-4E7ED,Astatke Menafesha,Wonsho,Sidama,2024-10-20,18.56,Passed,None,89.71,True
+ROM-25-F76FF,Abebe Jengelo,Hoko Girja,Sidama,2025-07-29,18.69,Passed,None,80.94,True
+ROM-25-13C95,Belete Tanga,Bona,Sidama,2025-08-24,18.86,Passed,None,84.86,True
+ROM-25-6EA76,Zenebe Dikicha,Aroresa,Sidama,2025-03-06,18.81,Passed,None,86.75,False
+ROM-25-4DDAD,Dogada Yemasira,Nansabo,Oromia,2025-12-07,18.58,Passed,None,83.93,False
+ROM-25-3A70F,Zenebe Dikicha,Aroresa,Sidama,2025-08-22,18.92,Passed,None,87.29,False
+ROM-25-4989E,Belete Tanga,Bona,Sidama,2025-04-01,18.91,Passed,None,84.15,True
+ROM-25-E18B5,Belete Tanga,Bona,Sidama,2025-02-02,19.09,Passed,None,84.05,True
+ROM-25-170F8,Hagire Buticha,Nansabo,Oromia,2025-07-11,18.56,Passed,None,82.98,True
+ROM-25-87825,Oddi Boku,Girja,Sidama,2025-08-18,19.36,Passed,None,79.39,False
+ROM-25-224E4,Oddi Boku,Girja,Sidama,2025-12-29,19.09,Passed,None,85.39,True
+ROM-25-490CA,Belete Tanga,Bona,Sidama,2025-10-06,18.95,Passed,None,84.73,True
+ROM-25-4ED0B,Zenebe Dikicha,Aroresa,Sidama,2025-07-23,19.38,Passed,None,84.45,True
+ROM-25-4432A,Belete Tanga,Bona,Sidama,2025-12-09,19.17,Passed,None,83.79,True
+ROM-25-49920,Hagire Buticha,Nansabo,Oromia,2024-10-27,19.32,Passed,None,81.15,False
+ROM-25-B208C,Hagire Buticha,Nansabo,Oromia,2025-05-28,18.63,Passed,None,81.82,True
+ROM-25-8E1A0,Oddi Boku,Girja,Sidama,2025-08-13,19.31,Passed,None,83.48,False
+ROM-25-CA138,Abebe Jengelo,Hoko Girja,Sidama,2025-04-17,19.14,Rejected,Primary Defects,76.26,True
+ROM-25-2FEE0,Zenebe Dikicha,Aroresa,Sidama,2025-03-02,19.01,Passed,None,85.44,True
+ROM-25-011B5,Dogada Yemasira,Nansabo,Oromia,2025-02-14,19.2,Passed,None,86.67,True
+ROM-25-43EA0,Belete Tanga,Bona,Sidama,2025-10-19,18.76,Passed,None,86.44,True
+ROM-25-3F65C,Belete Tanga,Bona,Sidama,2025-03-20,18.71,Passed,None,85.43,True
+ROM-25-0D3DC,Zenebe Dikicha,Aroresa,Sidama,2025-12-12,19.08,Rejected,High Moisture (>12.5%),75.22,True
+ROM-25-C458A,Abebe Jengelo,Hoko Girja,Sidama,2024-10-14,18.85,Passed,None,80.27,False
+ROM-25-6F791,Zenebe Dikicha,Aroresa,Sidama,2025-01-21,19.1,Passed,None,89.81,True
+ROM-25-EEEA0,Michael Girma,Anfilo,Oromia,2025-11-16,18.53,Rejected,Over-fermented,74.43,True
+ROM-25-40926,Michael Girma,Anfilo,Oromia,2025-07-16,18.86,Passed,None,84.44,True
+ROM-25-C4056,Michael Girma,Anfilo,Oromia,2025-10-26,18.98,Passed,None,83.65,True
+ROM-25-A1F4A,Abebe Jengelo,Hoko Girja,Sidama,2025-09-02,18.56,Passed,None,85.45,True
+ROM-25-5A5D6,Astatke Menafesha,Wonsho,Sidama,2025-09-25,18.71,Rejected,Under-dried,73.29,True
+ROM-25-0F34A,Hagire Buticha,Nansabo,Oromia,2025-10-25,19.03,Passed,None,84.32,True
+ROM-25-10C37,Belete Tanga,Bona,Sidama,2025-01-09,19.19,Rejected,Over-fermented,72.93,False
+ROM-25-3F91F,Zenebe Dikicha,Aroresa,Sidama,2025-11-15,18.95,Passed,None,83.75,True
+ROM-25-F90FE,Oddi Boku,Girja,Sidama,2025-01-10,18.52,Rejected,Under-dried,74.64,True
+ROM-25-D49B4,Oddi Boku,Girja,Sidama,2025-05-06,19.39,Rejected,Primary Defects,72.84,True
+ROM-25-E7A76,Dogada Yemasira,Nansabo,Oromia,2024-11-25,18.98,Passed,None,87.54,True
+ROM-25-09153,Hagire Buticha,Nansabo,Oromia,2025-11-05,18.93,Passed,None,84.22,True
+ROM-25-602CA,Astatke Menafesha,Wonsho,Sidama,2025-09-18,19.11,Passed,None,89.3,True
+ROM-25-485CF,Zenebe Dikicha,Aroresa,Sidama,2025-03-30,18.74,Passed,None,87.24,True
+ROM-25-8C226,Hagire Buticha,Nansabo,Oromia,2025-07-15,19.35,Passed,None,82.41,True
+ROM-25-19CB6,Hagire Buticha,Nansabo,Oromia,2025-04-10,18.55,Rejected,Under-dried,77.9,True
+ROM-25-D30C5,Michael Girma,Anfilo,Oromia,2025-04-12,18.9,Passed,None,83.78,False
+ROM-25-92F6C,Dogada Yemasira,Nansabo,Oromia,2025-06-26,18.67,Rejected,Primary Defects,73.81,True
+ROM-25-F69F5,Astatke Menafesha,Wonsho,Sidama,2025-01-20,18.98,Passed,None,86.75,False
+ROM-25-95D1A,Michael Girma,Anfilo,Oromia,2024-10-24,18.7,Rejected,Primary Defects,76.98,True
+ROM-25-40A81,Dogada Yemasira,Nansabo,Oromia,2025-09-07,18.59,Rejected,Primary Defects,77.37,True
+ROM-25-33858,Oddi Boku,Girja,Sidama,2025-12-04,18.55,Passed,None,82.73,True
+ROM-25-CDACB,Belete Tanga,Bona,Sidama,2024-11-30,18.7,Passed,None,86.84,True
+ROM-25-12283,Dogada Yemasira,Nansabo,Oromia,2025-10-15,19.26,Passed,None,87.77,True
+ROM-25-60C5C,Abebe Jengelo,Hoko Girja,Sidama,2025-06-30,18.61,Passed,None,84.56,False
+ROM-25-14750,Dogada Yemasira,Nansabo,Oromia,2025-09-06,19.23,Passed,None,83.87,False
+ROM-25-18DEB,Dogada Yemasira,Nansabo,Oromia,2025-11-12,19.22,Passed,None,89.49,True
+ROM-25-18A3F,Michael Girma,Anfilo,Oromia,2025-03-31,19.3,Rejected,High Moisture (>12.5%),77.25,False
+ROM-25-20663,Michael Girma,Anfilo,Oromia,2025-06-13,19.02,Passed,None,87.66,True
+ROM-25-82455,Michael Girma,Anfilo,Oromia,2024-12-02,18.95,Passed,None,87.78,True
+ROM-25-B545B,Abebe Jengelo,Hoko Girja,Sidama,2024-10-23,19.25,Passed,None,81.11,True
+ROM-25-ADEEC,Astatke Menafesha,Wonsho,Sidama,2024-11-17,19.03,Passed,None,85.74,True
+ROM-25-45A63,Abebe Jengelo,Hoko Girja,Sidama,2025-07-29,19.44,Passed,None,79.82,True
+ROM-25-345A7,Abebe Jengelo,Hoko Girja,Sidama,2025-03-08,19.38,Passed,None,80.17,True
+ROM-25-2C34C,Hagire Buticha,Nansabo,Oromia,2025-12-17,18.65,Passed,None,84.52,True
+ROM-25-24AEE,Michael Girma,Anfilo,Oromia,2025-10-26,18.7,Passed,None,84.0,True
+ROM-25-94DED,Michael Girma,Anfilo,Oromia,2025-05-21,19.32,Passed,None,85.39,True
+ROM-25-AE7E6,Dogada Yemasira,Nansabo,Oromia,2025-03-23,19.0,Passed,None,87.23,True
+ROM-25-FD4A2,Michael Girma,Anfilo,Oromia,2025-10-04,19.22,Passed,None,88.06,True
+ROM-25-DFF58,Zenebe Dikicha,Aroresa,Sidama,2024-10-15,19.1,Passed,None,88.01,False
+ROM-25-AAF04,Hagire Buticha,Nansabo,Oromia,2025-09-26,18.9,Passed,None,83.08,True
+ROM-25-46D4C,Hagire Buticha,Nansabo,Oromia,2025-02-12,18.64,Passed,None,85.38,True
+ROM-25-84F91,Astatke Menafesha,Wonsho,Sidama,2025-11-20,18.6,Rejected,Over-fermented,76.15,False
+ROM-25-BF6FB,Michael Girma,Anfilo,Oromia,2025-03-27,18.65,Passed,None,87.95,True
+ROM-25-10B75,Belete Tanga,Bona,Sidama,2025-10-03,19.43,Rejected,Under-dried,77.16,False
+ROM-25-ABF1E,Oddi Boku,Girja,Sidama,2025-06-03,19.34,Rejected,High Moisture (>12.5%),78.89,True
+ROM-25-98D06,Astatke Menafesha,Wonsho,Sidama,2024-11-05,18.73,Passed,None,85.18,True
+ROM-25-3842F,Oddi Boku,Girja,Sidama,2025-03-25,19.29,Rejected,High Moisture (>12.5%),73.44,True
+ROM-25-AEC26,Zenebe Dikicha,Aroresa,Sidama,2025-01-25,19.42,Passed,None,86.76,True
+ROM-25-BD287,Belete Tanga,Bona,Sidama,2025-11-13,19.09,Passed,None,89.43,True
+ROM-25-1922A,Zenebe Dikicha,Aroresa,Sidama,2024-12-26,18.67,Rejected,Over-fermented,76.04,True
+ROM-25-DEBD1,Astatke Menafesha,Wonsho,Sidama,2025-05-13,19.13,Passed,None,87.06,True
+ROM-25-A6D92,Michael Girma,Anfilo,Oromia,2025-07-18,18.96,Passed,None,89.83,True
+ROM-25-B0E12,Hagire Buticha,Nansabo,Oromia,2024-10-15,18.8,Rejected,High Moisture (>12.5%),73.29,True
+ROM-25-B9376,Hagire Buticha,Nansabo,Oromia,2025-09-22,19.4,Passed,None,80.47,True
+ROM-25-B27DA,Michael Girma,Anfilo,Oromia,2025-08-11,19.34,Passed,None,85.64,True
+ROM-25-C1FAD,Astatke Menafesha,Wonsho,Sidama,2024-10-22,19.02,Passed,None,86.17,True
+ROM-25-82463,Belete Tanga,Bona,Sidama,2025-01-27,18.6,Passed,None,88.36,True
+ROM-25-22B5B,Oddi Boku,Girja,Sidama,2025-09-21,18.77,Passed,None,81.61,True
+ROM-25-9CBF6,Dogada Yemasira,Nansabo,Oromia,2025-05-08,19.34,Passed,None,89.85,False
+ROM-25-BC6CC,Abebe Jengelo,Hoko Girja,Sidama,2025-01-03,18.7,Rejected,Under-dried,73.78,True
+ROM-25-7B926,Abebe Jengelo,Hoko Girja,Sidama,2025-02-03,19.39,Rejected,Under-dried,75.99,True
+ROM-25-DE891,Abebe Jengelo,Hoko Girja,Sidama,2025-07-26,19.1,Rejected,Over-fermented,78.92,False
+ROM-25-FB9C4,Abebe Jengelo,Hoko Girja,Sidama,2024-10-23,18.7,Passed,None,83.68,True
+ROM-25-CB20B,Abebe Jengelo,Hoko Girja,Sidama,2024-11-17,18.71,Rejected,Primary Defects,72.6,True
+ROM-25-6126D,Michael Girma,Anfilo,Oromia,2025-05-13,19.2,Passed,None,87.5,False
+ROM-25-E090E,Michael Girma,Anfilo,Oromia,2025-08-28,18.88,Passed,None,84.82,True
+ROM-25-84B4D,Dogada Yemasira,Nansabo,Oromia,2025-08-21,19.27,Passed,None,85.42,True
+ROM-25-911F3,Michael Girma,Anfilo,Oromia,2025-05-27,19.26,Passed,None,89.64,True
+ROM-25-F4144,Belete Tanga,Bona,Sidama,2025-10-22,18.97,Passed,None,89.9,True
+ROM-25-DEE2F,Belete Tanga,Bona,Sidama,2025-07-27,19.2,Rejected,Primary Defects,77.19,True
+ROM-25-8233F,Astatke Menafesha,Wonsho,Sidama,2025-11-17,18.63,Rejected,Under-dried,74.95,False
+ROM-25-BFE5F,Belete Tanga,Bona,Sidama,2024-11-27,19.41,Passed,None,83.13,True
+ROM-25-CB1EF,Dogada Yemasira,Nansabo,Oromia,2025-10-31,18.91,Passed,None,83.47,True
+ROM-25-068FE,Dogada Yemasira,Nansabo,Oromia,2025-10-07,18.76,Rejected,Primary Defects,72.98,True
+ROM-25-E600D,Zenebe Dikicha,Aroresa,Sidama,2025-01-02,19.17,Passed,None,87.2,True
+ROM-25-6E355,Michael Girma,Anfilo,Oromia,2025-10-14,19.27,Passed,None,85.83,True
+ROM-25-46527,Belete Tanga,Bona,Sidama,2025-06-01,18.59,Rejected,Under-dried,73.29,True
+ROM-25-78C0F,Michael Girma,Anfilo,Oromia,2025-08-20,18.86,Passed,None,85.02,True
+ROM-25-82ECE,Oddi Boku,Girja,Sidama,2025-05-13,18.9,Passed,None,85.65,False
+ROM-25-15238,Hagire Buticha,Nansabo,Oromia,2025-09-24,18.53,Passed,None,80.5,True
+ROM-25-D0202,Zenebe Dikicha,Aroresa,Sidama,2025-05-22,19.46,Passed,None,88.92,True
+ROM-25-8A476,Astatke Menafesha,Wonsho,Sidama,2025-12-27,18.58,Passed,None,83.75,True
+ROM-25-30636,Astatke Menafesha,Wonsho,Sidama,2025-05-18,18.96,Passed,None,87.19,True
+ROM-25-FC1EB,Belete Tanga,Bona,Sidama,2025-10-07,18.77,Passed,None,87.86,True
+ROM-25-FBC4E,Zenebe Dikicha,Aroresa,Sidama,2025-01-18,19.46,Passed,None,88.65,True
+ROM-25-AFEC7,Astatke Menafesha,Wonsho,Sidama,2025-04-18,19.04,Passed,None,84.3,False
+ROM-25-281A4,Abebe Jengelo,Hoko Girja,Sidama,2025-10-01,19.22,Passed,None,84.31,True
+ROM-25-CB022,Abebe Jengelo,Hoko Girja,Sidama,2025-11-30,18.72,Passed,None,82.43,False
+ROM-25-AD0EA,Michael Girma,Anfilo,Oromia,2024-12-11,19.09,Passed,None,83.31,False
+ROM-25-5FCA3,Belete Tanga,Bona,Sidama,2025-04-28,18.53,Passed,None,89.41,True
+ROM-25-6DDFA,Astatke Menafesha,Wonsho,Sidama,2025-09-17,19.44,Rejected,Over-fermented,78.8,True
+ROM-25-2B6E3,Hagire Buticha,Nansabo,Oromia,2025-10-21,19.33,Rejected,Under-dried,74.23,True
+ROM-25-123D0,Oddi Boku,Girja,Sidama,2025-07-03,18.98,Passed,None,82.92,False
+ROM-25-A047D,Zenebe Dikicha,Aroresa,Sidama,2025-04-26,18.57,Passed,None,88.07,True
+ROM-25-A9E07,Astatke Menafesha,Wonsho,Sidama,2025-11-09,19.24,Passed,None,87.63,True
+ROM-25-F15B4,Michael Girma,Anfilo,Oromia,2025-06-29,18.52,Passed,None,84.63,False
+ROM-25-0A0D2,Hagire Buticha,Nansabo,Oromia,2025-06-14,19.44,Rejected,High Moisture (>12.5%),75.7,True
+ROM-25-DC38E,Oddi Boku,Girja,Sidama,2025-02-25,18.9,Rejected,High Moisture (>12.5%),77.37,True
+ROM-25-DBBA7,Astatke Menafesha,Wonsho,Sidama,2025-04-01,18.9,Passed,None,84.9,True
+ROM-25-83854,Oddi Boku,Girja,Sidama,2025-07-09,18.74,Passed,None,84.16,True
+ROM-25-A3695,Hagire Buticha,Nansabo,Oromia,2025-07-15,19.22,Passed,None,84.97,True
+ROM-25-87E68,Abebe Jengelo,Hoko Girja,Sidama,2024-12-05,18.61,Rejected,Primary Defects,72.32,True
+ROM-25-FE31E,Dogada Yemasira,Nansabo,Oromia,2025-05-12,18.76,Rejected,Primary Defects,77.59,True
+ROM-25-D6EB2,Oddi Boku,Girja,Sidama,2025-09-20,18.97,Passed,None,85.61,True
+ROM-25-E88A9,Astatke Menafesha,Wonsho,Sidama,2025-10-15,18.9,Passed,None,83.45,False
+ROM-25-1374B,Hagire Buticha,Nansabo,Oromia,2025-11-17,18.73,Passed,None,82.59,True
+ROM-25-8B7EF,Belete Tanga,Bona,Sidama,2025-01-02,18.85,Rejected,Primary Defects,77.46,True
+ROM-25-3F7B5,Oddi Boku,Girja,Sidama,2025-09-26,19.49,Rejected,High Moisture (>12.5%),78.49,True
+ROM-25-B7993,Belete Tanga,Bona,Sidama,2025-02-06,19.5,Passed,None,86.44,False
+ROM-25-071B6,Zenebe Dikicha,Aroresa,Sidama,2025-08-02,19.04,Passed,None,84.57,True
+ROM-25-C8020,Hagire Buticha,Nansabo,Oromia,2024-12-04,18.89,Passed,None,82.2,True
+ROM-25-6FDBA,Michael Girma,Anfilo,Oromia,2025-10-01,19.36,Passed,None,89.69,False
+ROM-25-2E1E3,Abebe Jengelo,Hoko Girja,Sidama,2025-05-16,18.78,Passed,None,84.15,True
+ROM-25-872DF,Hagire Buticha,Nansabo,Oromia,2025-12-25,19.0,Passed,None,84.06,True
+ROM-25-BE4EA,Dogada Yemasira,Nansabo,Oromia,2025-05-06,19.35,Rejected,Over-fermented,72.53,True
+ROM-25-11AE9,Abebe Jengelo,Hoko Girja,Sidama,2025-02-19,19.07,Passed,None,85.35,True
+ROM-25-04BED,Abebe Jengelo,Hoko Girja,Sidama,2025-06-09,19.38,Passed,None,80.87,True
+ROM-25-56ACA,Abebe Jengelo,Hoko Girja,Sidama,2025-08-11,18.66,Passed,None,80.1,True
+ROM-25-E2B88,Michael Girma,Anfilo,Oromia,2025-10-21,19.12,Passed,None,87.76,True
+ROM-25-AEBDE,Oddi Boku,Girja,Sidama,2025-10-25,18.97,Passed,None,85.73,False
+ROM-25-F41DC,Belete Tanga,Bona,Sidama,2025-10-17,19.41,Rejected,Under-dried,73.6,True
+ROM-25-7DCCC,Belete Tanga,Bona,Sidama,2025-04-26,18.51,Passed,None,86.55,True
+ROM-25-9C1F2,Hagire Buticha,Nansabo,Oromia,2025-12-10,18.62,Passed,None,82.92,True
+ROM-25-76EB7,Abebe Jengelo,Hoko Girja,Sidama,2025-04-25,18.61,Passed,None,84.46,True
+ROM-25-BAD4D,Belete Tanga,Bona,Sidama,2025-10-06,18.89,Passed,None,88.88,True
+ROM-25-9C678,Michael Girma,Anfilo,Oromia,2025-08-16,19.27,Rejected,Over-fermented,73.22,False
+ROM-25-7A095,Abebe Jengelo,Hoko Girja,Sidama,2025-03-30,19.08,Passed,None,79.47,True
+ROM-25-93E40,Belete Tanga,Bona,Sidama,2024-12-21,19.47,Rejected,Primary Defects,78.1,False
+ROM-25-8F6A4,Dogada Yemasira,Nansabo,Oromia,2025-10-20,18.88,Passed,None,87.16,True
+ROM-25-07A5F,Astatke Menafesha,Wonsho,Sidama,2024-10-04,19.27,Passed,None,86.42,True
+ROM-25-98A8C,Belete Tanga,Bona,Sidama,2025-03-03,18.93,Rejected,Primary Defects,78.98,True
+ROM-25-EA523,Oddi Boku,Girja,Sidama,2025-08-24,18.8,Passed,None,84.78,False
+ROM-25-E9ABB,Oddi Boku,Girja,Sidama,2025-09-26,18.77,Passed,None,83.58,False
+ROM-25-0ACEA,Dogada Yemasira,Nansabo,Oromia,2025-08-19,18.92,Rejected,High Moisture (>12.5%),78.61,True
+ROM-25-2D488,Hagire Buticha,Nansabo,Oromia,2025-10-24,18.81,Passed,None,82.1,True
+ROM-25-F7E8F,Hagire Buticha,Nansabo,Oromia,2025-12-07,18.53,Passed,None,80.49,True
+ROM-25-C9673,Dogada Yemasira,Nansabo,Oromia,2025-11-14,19.04,Passed,None,86.3,True
+ROM-25-CECEA,Astatke Menafesha,Wonsho,Sidama,2025-10-15,19.27,Passed,None,88.44,False
+ROM-25-AE0C3,Dogada Yemasira,Nansabo,Oromia,2025-10-02,18.53,Rejected,High Moisture (>12.5%),72.92,False
+ROM-25-57218,Zenebe Dikicha,Aroresa,Sidama,2025-08-26,18.62,Rejected,Under-dried,75.37,True
+ROM-25-77B00,Dogada Yemasira,Nansabo,Oromia,2025-09-21,18.73,Passed,None,86.91,True
+ROM-25-EB2B3,Hagire Buticha,Nansabo,Oromia,2025-01-20,19.3,Passed,None,80.88,True
+ROM-25-C9F9D,Michael Girma,Anfilo,Oromia,2025-01-17,18.89,Rejected,High Moisture (>12.5%),72.51,True
+ROM-25-CE29C,Oddi Boku,Girja,Sidama,2025-08-10,19.26,Passed,None,83.6,False
+ROM-25-578BC,Astatke Menafesha,Wonsho,Sidama,2025-07-15,18.65,Rejected,Primary Defects,77.24,True
+ROM-25-2FE5A,Hagire Buticha,Nansabo,Oromia,2025-03-19,18.71,Rejected,Over-fermented,75.38,True
+ROM-25-6B938,Abebe Jengelo,Hoko Girja,Sidama,2025-11-02,19.03,Rejected,Over-fermented,72.51,False
+ROM-25-458E6,Hagire Buticha,Nansabo,Oromia,2025-04-21,18.82,Rejected,Over-fermented,74.5,False
+ROM-25-B4AAF,Belete Tanga,Bona,Sidama,2025-07-10,18.7,Passed,None,88.6,True
+ROM-25-BF42B,Astatke Menafesha,Wonsho,Sidama,2024-10-03,19.4,Passed,None,83.87,True
+ROM-25-417E6,Astatke Menafesha,Wonsho,Sidama,2025-03-30,19.44,Rejected,Over-fermented,74.09,False
+ROM-25-85F82,Dogada Yemasira,Nansabo,Oromia,2025-07-04,19.31,Passed,None,85.38,True
+ROM-25-3541F,Dogada Yemasira,Nansabo,Oromia,2025-08-25,19.28,Passed,None,87.18,True
+ROM-25-E5C17,Oddi Boku,Girja,Sidama,2025-01-10,18.58,Passed,None,84.12,True
+ROM-25-259FE,Oddi Boku,Girja,Sidama,2025-10-13,19.12,Passed,None,82.35,True
+ROM-25-80354,Hagire Buticha,Nansabo,Oromia,2025-03-23,19.29,Passed,None,80.27,True
+ROM-25-176A4,Zenebe Dikicha,Aroresa,Sidama,2025-09-25,18.73,Rejected,Primary Defects,77.03,False
+ROM-25-606A5,Astatke Menafesha,Wonsho,Sidama,2025-06-28,18.9,Passed,None,83.57,True
+ROM-25-B2C6B,Hagire Buticha,Nansabo,Oromia,2025-06-08,18.67,Rejected,High Moisture (>12.5%),77.88,False
+ROM-25-61224,Belete Tanga,Bona,Sidama,2025-08-18,18.85,Passed,None,85.98,True
+ROM-25-58C65,Dogada Yemasira,Nansabo,Oromia,2025-01-05,19.01,Passed,None,86.8,True
+ROM-25-F808A,Belete Tanga,Bona,Sidama,2025-08-21,19.37,Passed,None,86.41,False
+ROM-25-A34B9,Hagire Buticha,Nansabo,Oromia,2025-11-22,18.78,Passed,None,85.94,True
+ROM-25-E5DDC,Zenebe Dikicha,Aroresa,Sidama,2024-12-20,19.23,Passed,None,87.42,True
+ROM-25-DCC52,Abebe Jengelo,Hoko Girja,Sidama,2025-12-09,19.13,Passed,None,83.21,True
+ROM-25-20111,Belete Tanga,Bona,Sidama,2025-08-30,18.94,Rejected,High Moisture (>12.5%),72.48,True
+ROM-25-3EABC,Michael Girma,Anfilo,Oromia,2025-10-19,18.86,Passed,None,86.6,True
+ROM-25-A6A40,Hagire Buticha,Nansabo,Oromia,2025-08-10,18.9,Passed,None,81.19,False
+ROM-25-9DA75,Michael Girma,Anfilo,Oromia,2025-03-17,18.63,Passed,None,88.41,False
+ROM-25-2C967,Oddi Boku,Girja,Sidama,2025-04-19,18.94,Passed,None,85.19,True
+ROM-25-F9A0B,Michael Girma,Anfilo,Oromia,2024-12-03,18.93,Passed,None,88.8,True
+ROM-25-5BFF5,Zenebe Dikicha,Aroresa,Sidama,2024-11-05,18.86,Passed,None,84.77,True
+ROM-25-C9BD1,Zenebe Dikicha,Aroresa,Sidama,2025-01-14,18.97,Passed,None,87.65,False
+ROM-25-5E606,Dogada Yemasira,Nansabo,Oromia,2024-12-27,19.06,Passed,None,89.05,True
+ROM-25-3E43B,Dogada Yemasira,Nansabo,Oromia,2025-03-20,19.03,Passed,None,83.4,False
+ROM-25-02184,Michael Girma,Anfilo,Oromia,2024-12-17,18.68,Passed,None,84.57,True
+ROM-25-54893,Astatke Menafesha,Wonsho,Sidama,2025-09-06,18.65,Passed,None,83.29,False
+ROM-25-B7F0C,Abebe Jengelo,Hoko Girja,Sidama,2024-10-21,18.82,Passed,None,79.12,False
+ROM-25-7E699,Oddi Boku,Girja,Sidama,2025-05-13,18.99,Passed,None,82.61,True
+ROM-25-8D8E0,Dogada Yemasira,Nansabo,Oromia,2025-02-13,19.2,Rejected,Primary Defects,74.16,True
+ROM-25-1BB1B,Oddi Boku,Girja,Sidama,2024-11-15,19.17,Rejected,High Moisture (>12.5%),72.66,True
+ROM-25-31B05,Michael Girma,Anfilo,Oromia,2025-08-28,19.16,Passed,None,84.79,False
+ROM-25-B90E6,Zenebe Dikicha,Aroresa,Sidama,2025-08-14,19.12,Passed,None,86.48,False
+ROM-25-7F0E9,Abebe Jengelo,Hoko Girja,Sidama,2025-09-19,19.3,Passed,None,79.79,False
+ROM-25-176EF,Astatke Menafesha,Wonsho,Sidama,2025-01-22,19.17,Rejected,Over-fermented,77.79,True
+ROM-25-BE726,Hagire Buticha,Nansabo,Oromia,2025-03-23,18.55,Passed,None,86.0,False
+ROM-25-FB429,Astatke Menafesha,Wonsho,Sidama,2025-07-27,18.59,Passed,None,88.27,True
+ROM-25-12C1C,Zenebe Dikicha,Aroresa,Sidama,2025-10-30,18.83,Passed,None,85.83,True
+ROM-25-A68CE,Hagire Buticha,Nansabo,Oromia,2025-12-17,18.82,Passed,None,85.15,False
+ROM-25-A15BC,Astatke Menafesha,Wonsho,Sidama,2025-07-16,18.83,Rejected,Primary Defects,76.54,True
+ROM-25-C0911,Belete Tanga,Bona,Sidama,2025-02-21,18.89,Passed,None,87.87,True
+ROM-25-BE669,Astatke Menafesha,Wonsho,Sidama,2024-11-17,18.51,Passed,None,86.11,True
+ROM-25-58E96,Abebe Jengelo,Hoko Girja,Sidama,2025-07-18,18.96,Passed,None,83.34,True
+ROM-25-4BE0F,Belete Tanga,Bona,Sidama,2025-10-20,19.41,Passed,None,88.93,False
+ROM-25-B7CC6,Astatke Menafesha,Wonsho,Sidama,2025-10-24,19.08,Passed,None,85.79,True
+ROM-25-162C1,Oddi Boku,Girja,Sidama,2025-09-16,19.25,Passed,None,82.85,True
+ROM-25-59196,Zenebe Dikicha,Aroresa,Sidama,2025-06-15,19.4,Rejected,Under-dried,75.02,True
+ROM-25-6269E,Oddi Boku,Girja,Sidama,2025-10-26,18.56,Passed,None,85.49,False
+ROM-25-6F68E,Hagire Buticha,Nansabo,Oromia,2025-09-04,18.76,Rejected,Primary Defects,75.4,True
+ROM-25-FDFF1,Zenebe Dikicha,Aroresa,Sidama,2025-09-14,19.08,Passed,None,86.73,True
+ROM-25-BF1B9,Hagire Buticha,Nansabo,Oromia,2025-04-07,18.91,Passed,None,80.91,True
+ROM-25-68064,Zenebe Dikicha,Aroresa,Sidama,2024-11-30,19.03,Rejected,Over-fermented,73.27,True
+ROM-25-6DEE9,Abebe Jengelo,Hoko Girja,Sidama,2025-11-09,19.42,Passed,None,80.3,True
+ROM-25-107CA,Hagire Buticha,Nansabo,Oromia,2024-11-20,18.54,Passed,None,82.85,True
+ROM-25-A2698,Zenebe Dikicha,Aroresa,Sidama,2024-12-19,19.38,Rejected,Primary Defects,77.73,True
+ROM-25-19C13,Astatke Menafesha,Wonsho,Sidama,2024-11-29,18.86,Passed,None,84.22,False
+ROM-25-ACAF5,Abebe Jengelo,Hoko Girja,Sidama,2025-07-26,19.28,Passed,None,80.66,True
+ROM-25-A51C1,Zenebe Dikicha,Aroresa,Sidama,2025-09-01,19.31,Passed,None,87.7,True
+ROM-25-A00AE,Belete Tanga,Bona,Sidama,2024-12-06,18.67,Passed,None,87.11,True
+ROM-25-55CDD,Belete Tanga,Bona,Sidama,2025-10-18,18.68,Passed,None,86.75,True
+ROM-25-FE467,Zenebe Dikicha,Aroresa,Sidama,2025-02-26,18.73,Passed,None,86.83,True
+ROM-25-FE84A,Michael Girma,Anfilo,Oromia,2025-02-22,18.64,Rejected,High Moisture (>12.5%),78.91,True
+ROM-25-462FD,Zenebe Dikicha,Aroresa,Sidama,2025-01-19,19.22,Passed,None,86.12,True
+ROM-25-E12A2,Abebe Jengelo,Hoko Girja,Sidama,2024-12-05,18.84,Rejected,Under-dried,76.22,False
+ROM-25-FB3D8,Michael Girma,Anfilo,Oromia,2025-01-13,19.1,Rejected,Over-fermented,76.52,True
+ROM-25-D3F09,Astatke Menafesha,Wonsho,Sidama,2025-03-29,18.57,Passed,None,85.48,True
+ROM-25-87DB3,Belete Tanga,Bona,Sidama,2024-12-04,19.14,Passed,None,83.49,True
+ROM-25-21AE4,Abebe Jengelo,Hoko Girja,Sidama,2025-11-05,18.82,Passed,None,82.73,True
+ROM-25-A2505,Hagire Buticha,Nansabo,Oromia,2025-10-31,19.06,Rejected,Over-fermented,76.63,True
+ROM-25-0EF5B,Hagire Buticha,Nansabo,Oromia,2025-12-19,18.59,Passed,None,83.06,False
+ROM-25-13D75,Michael Girma,Anfilo,Oromia,2025-10-29,19.04,Passed,None,84.41,True
+ROM-25-E3F81,Astatke Menafesha,Wonsho,Sidama,2025-11-14,18.8,Passed,None,83.01,False
+ROM-25-69F7E,Zenebe Dikicha,Aroresa,Sidama,2025-02-16,18.9,Passed,None,84.64,True
+ROM-25-C7D46,Michael Girma,Anfilo,Oromia,2025-04-24,18.74,Passed,None,88.38,True
+ROM-25-0BC72,Dogada Yemasira,Nansabo,Oromia,2025-04-27,19.26,Passed,None,83.62,True
+ROM-25-45EB2,Abebe Jengelo,Hoko Girja,Sidama,2025-04-09,18.56,Passed,None,80.12,True
+ROM-25-C4CD1,Oddi Boku,Girja,Sidama,2025-07-08,18.59,Passed,None,81.52,False
+ROM-25-1B21C,Astatke Menafesha,Wonsho,Sidama,2025-04-01,18.78,Passed,None,88.78,False
+ROM-25-39058,Belete Tanga,Bona,Sidama,2025-07-28,19.0,Passed,None,89.44,False
+ROM-25-8E293,Michael Girma,Anfilo,Oromia,2025-09-25,18.9,Passed,None,86.51,True
+ROM-25-D6715,Michael Girma,Anfilo,Oromia,2025-03-01,19.37,Passed,None,89.15,False
+ROM-25-D0F05,Abebe Jengelo,Hoko Girja,Sidama,2025-09-21,18.9,Rejected,Primary Defects,72.57,True
+ROM-25-C38CA,Belete Tanga,Bona,Sidama,2025-12-12,19.07,Passed,None,89.7,False
+ROM-25-307D8,Belete Tanga,Bona,Sidama,2025-05-29,19.11,Rejected,Primary Defects,74.2,True
+ROM-25-D1C39,Abebe Jengelo,Hoko Girja,Sidama,2025-04-19,19.0,Passed,None,80.22,True
+ROM-25-B26C1,Astatke Menafesha,Wonsho,Sidama,2025-09-18,18.98,Passed,None,83.85,True
+ROM-25-3227E,Oddi Boku,Girja,Sidama,2025-10-30,19.47,Passed,None,82.85,True
+ROM-25-80AB2,Michael Girma,Anfilo,Oromia,2025-07-13,18.78,Passed,None,89.13,False
+ROM-25-E03BD,Abebe Jengelo,Hoko Girja,Sidama,2025-09-10,18.86,Rejected,Primary Defects,76.22,True
+ROM-25-56FBE,Michael Girma,Anfilo,Oromia,2025-01-06,18.56,Passed,None,86.22,False
+ROM-25-19682,Michael Girma,Anfilo,Oromia,2025-06-10,18.93,Passed,None,85.08,True
+ROM-25-7F7CC,Michael Girma,Anfilo,Oromia,2025-11-23,18.68,Rejected,Primary Defects,73.86,True
+ROM-25-AE77F,Astatke Menafesha,Wonsho,Sidama,2025-02-27,19.31,Passed,None,89.98,True
+ROM-25-43A38,Dogada Yemasira,Nansabo,Oromia,2025-05-22,18.93,Rejected,Over-fermented,75.69,True
+ROM-25-E1407,Dogada Yemasira,Nansabo,Oromia,2025-07-16,18.85,Passed,None,87.58,True
+ROM-25-75F41,Hagire Buticha,Nansabo,Oromia,2025-11-07,19.27,Passed,None,84.14,True
+ROM-25-13782,Belete Tanga,Bona,Sidama,2025-05-18,18.76,Rejected,High Moisture (>12.5%),72.13,True
+ROM-25-D6A07,Belete Tanga,Bona,Sidama,2025-11-22,18.51,Rejected,High Moisture (>12.5%),73.51,True
+ROM-25-B1D37,Michael Girma,Anfilo,Oromia,2025-09-11,18.99,Rejected,High Moisture (>12.5%),78.72,True
+ROM-25-27C51,Dogada Yemasira,Nansabo,Oromia,2025-10-25,18.77,Passed,None,86.5,True
+ROM-25-B83DE,Hagire Buticha,Nansabo,Oromia,2025-03-21,19.15,Rejected,Over-fermented,73.7,False
+ROM-25-53B67,Michael Girma,Anfilo,Oromia,2025-05-10,19.29,Passed,None,86.22,False
+ROM-25-BCF2A,Astatke Menafesha,Wonsho,Sidama,2025-04-05,19.19,Rejected,Over-fermented,74.21,True
+ROM-25-08F94,Michael Girma,Anfilo,Oromia,2025-10-01,18.75,Passed,None,89.51,True
+ROM-25-82B57,Dogada Yemasira,Nansabo,Oromia,2025-04-21,19.4,Passed,None,87.62,True
+ROM-25-080F8,Oddi Boku,Girja,Sidama,2024-11-11,19.38,Passed,None,82.15,True
+ROM-25-D3D4B,Dogada Yemasira,Nansabo,Oromia,2025-12-24,18.54,Passed,None,87.76,True
+ROM-25-28ADA,Zenebe Dikicha,Aroresa,Sidama,2024-11-01,18.61,Passed,None,88.61,True
+ROM-25-9DBE4,Dogada Yemasira,Nansabo,Oromia,2024-11-19,18.8,Passed,None,85.47,True
+ROM-25-27341,Oddi Boku,Girja,Sidama,2025-06-10,18.85,Passed,None,84.49,True
+ROM-25-BA7D4,Michael Girma,Anfilo,Oromia,2025-05-07,18.77,Passed,None,88.35,True
+ROM-25-1C050,Abebe Jengelo,Hoko Girja,Sidama,2025-06-24,19.28,Passed,None,85.29,True
+ROM-25-9C838,Astatke Menafesha,Wonsho,Sidama,2024-10-23,18.62,Passed,None,84.44,True
+ROM-25-416C6,Hagire Buticha,Nansabo,Oromia,2025-08-30,18.54,Rejected,High Moisture (>12.5%),75.71,False
+ROM-25-4385A,Michael Girma,Anfilo,Oromia,2025-02-22,19.1,Rejected,Under-dried,78.86,True
+ROM-25-3095F,Oddi Boku,Girja,Sidama,2025-01-20,18.66,Passed,None,83.32,True
+ROM-25-A0F97,Astatke Menafesha,Wonsho,Sidama,2025-08-27,18.87,Passed,None,84.57,True
+ROM-25-1DB57,Dogada Yemasira,Nansabo,Oromia,2024-10-02,18.77,Passed,None,84.15,False
