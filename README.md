@@ -23,7 +23,7 @@ Ethiopian coffee exporters face three critical "Value Killers":
 - Results in $7.69M in retained FOREX being locked  
 
 ### 2. The "Silent Killer" – Physical Shrinkage
-- 1.5% loss during transport (washing stations ? Djibouti Port)  
+- 1.5% loss during transport (washing stations to Djibouti Port)  
 - Leads to >$1M annual revenue loss  
 
 ### 3. Regulatory Risk
